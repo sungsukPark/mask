@@ -1,0 +1,16 @@
+txtCntPerMin		//생산속도
+
+picLogo			//회사로고
+picLogo1			//회사로고
+
+lblCongrat			//?????님 환영합니다.   ????? -> txtUserName 교체
+//------------------------------------------------------------------------------------------
+lblCntPerMin		// 분당 수량 [ 현재속도 ]
+lblEaPerDay		// 하루 수량 [ 오늘 총 생산량 ]	
+lblErrCntPerDay		// 장애 회수 [ 오늘 장애 회수]
+//------------------------------------------------------------------------------------------
+
+ChkStateWarning		// 원단 30% 미만 주의 표시
+ChkStateError		// 장애발생
+ChkStateProcessing		// 현재 동작중인 상태 표시
+ChkStateNormal		// 정상 상태 표시
